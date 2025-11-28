@@ -19,7 +19,7 @@
    <h3>Skillsets</h3>
 <ul>
   <li>Basic HTML & CSS</li>
-  <li>Beginner Python Programming</li>
+  <li>SQL Fundamentals</li>
   <li>Basic Computer Troubleshooting</li>
 </ul>
 <!--
