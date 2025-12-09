@@ -17,7 +17,7 @@
     <h3>Certifications</h3>
    <strong><li><a href="https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e5b4826">SQL and Relational Databases 101</li> </a></strong>
    <strong><li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED6BECCBCFC2E86CD26E9DC18928997ACF0F2BD5B4625ACF25785B49394E7A5F">OCI Foundations Associate (2025)</li> </a></strong>
-   <strong><li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F60E3A218F6F23CC8729769B12FC6303EF13A591038D205098D1D4BE74AABC5E">Certified Foundations Associate(2025)</li> </a></strong>
+   <strong><li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F60E3A218F6F23CC8729769B12FC6303EF13A591038D205098D1D4BE74AABC5E">Data Platform Foundations Associate</li> </a></strong>
    <h3>Skillsets</h3>
 <ul>
   <li>Basic HTML & CSS</li>
