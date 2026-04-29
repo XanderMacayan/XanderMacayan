@@ -20,6 +20,7 @@
    <strong><li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F60E3A218F6F23CC8729769B12FC6303EF13A591038D205098D1D4BE74AABC5E">Oracle Data Platform Foundations Associate</li> </a></strong>
    <strong><li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCB1774BD772A6CC9DD25DC9472C9DFD4F22658CFC1BD584BC3A07DC55EA19BB">OCI AI Foundations Associate(2025)</li> </a></strong>
    <strong><li><a href="https://edu.google.accredible.com/af03cad5-281e-496e-a638-3b6190828821#acc.Mkr0IzJs">Gemini Certified Student</li> </a></strong>
+   <strong><li><a href="https://courses.cognitiveclass.ai/certificates/320bae5a5a0c4f4486fd979144f9db2c">NoSQL and DBaaS 101</li> </a></strong>
    <h3>Skillsets</h3>
 <ul>
   <li>Basic HTML & CSS</li>
