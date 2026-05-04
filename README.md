@@ -7,12 +7,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a **Bachelor of Science in Information Technology** student with a growing passion for coding and database management. I enjoy solving complex problems and I'm constantly "leveling up" my technical skills.
 
-- 🎓 **Education:** BSIT at New Era University (2024 - Present)
-- 🚀 **Goal:** Transitioning from a beginner to a proficient Full-Stack Developer.
-- ⚡ **Fun Fact:** I thrive on crafting elegant solutions for complex logic.
+-  **Education:** BSIT at New Era University (2024 - Present)
+- **Goal:** Transitioning from a beginner to a proficient Full-Stack Developer.
+- **Fun Fact:** I thrive on crafting elegant solutions for complex logic.
 
 ---
 
@@ -26,12 +26,12 @@ I am a **Bachelor of Science in Information Technology** student with a growing 
 ---
 
 ### 📜 Certifications
-*   🏆 **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e5b4826)**
-*   ☁️ **[OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED6BECCBCFC2E86CD26E9DC18928997ACF0F2BD5B4625ACF25785B49394E7A5F)**
-*   📊 **[Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F60E3A218F6F23CC8729769B12FC6303EF13A591038D205098D1D4BE74AABC5E)**
-*   🤖 **[OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCB1774BD772A6CC9DD25DC9472C9DFD4F22658CFC1BD584BC3A07DC55EA19BB)**
-*   ✨ **[Gemini Certified Student](https://edu.google.accredible.com/af03cad5-281e-496e-a638-3b6190828821#acc.Mkr0IzJs)**
-*   💾 **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/320bae5a5a0c4f4486fd979144f9db2c)**
+*   **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e5b4826)**
+*   **[OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED6BECCBCFC2E86CD26E9DC18928997ACF0F2BD5B4625ACF25785B49394E7A5F)**
+*   **[Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F60E3A218F6F23CC8729769B12FC6303EF13A591038D205098D1D4BE74AABC5E)**
+*   **[OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCB1774BD772A6CC9DD25DC9472C9DFD4F22658CFC1BD584BC3A07DC55EA19BB)**
+*   **[Gemini Certified Student](https://edu.google.accredible.com/af03cad5-281e-496e-a638-3b6190828821#acc.Mkr0IzJs)**
+*   **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/320bae5a5a0c4f4486fd979144f9db2c)**
 
 ---
 
