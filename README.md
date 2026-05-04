@@ -35,8 +35,6 @@ I am a **Bachelor of Science in Information Technology** student with a growing 
 
 ---
 
-### 📊 GitHub Stats
-![Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
 
 ---
 
